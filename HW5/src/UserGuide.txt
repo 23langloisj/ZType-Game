@@ -1,0 +1,12 @@
+Introducing ZTYpe Game 
+
+How to play: 
+
+This is a typing game. Players should type the words fallen from the top of the screen. When a word is typed,
+
+the color of the word is red. A player gets rid of a word by finishing typing the word. 
+
+The game ends when a word reaches the ground. 
+
+The score of the game is depended on how long the player last in the game. 
+
